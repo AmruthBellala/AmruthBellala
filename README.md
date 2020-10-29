@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**AmruthBellala/AmruthBellala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋!! I am Amruth Bellala
 
 - 🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning Machine Learning and MERN Stack
@@ -12,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, HTML, CSS, JavaScript
 - 📫 How to reach me: https://www.localtechies.tech
 - 😄 Pronouns: he/him
--->
+
