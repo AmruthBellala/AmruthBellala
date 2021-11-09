@@ -1,9 +1,9 @@
 ### Hi there 👋!! I am Amruth Bellala
 
-- 🔭 I’m currently working on Python, Machine Learning and AI Projects
-- 🌱 I’m currently learning Machine Learning, AI and Deep Learning 
-- 👯 I’m looking to collaborate on Machine Learning
-- 💬 Ask me about Python, HTML, CSS, JavaScript and ML
-- 📫 How to reach me: https://www.localtechies.tech
+- 🔭 I’m currently working on Full Stack related Projects
+- 🌱 I’m currently learning MERN Stack 
+- 👯 I’m looking to collaborate on Front-End Development
+- 💬 Ask me about Python, HTML, CSS, JavaScript
+- 📫 How to reach me: "aravindan.amruth@gmail.com" / "amruthbellala15@gmail.com"
 - 😄 Pronouns: he/him
 
